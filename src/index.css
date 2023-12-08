@@ -73,7 +73,7 @@ section > p {
 
 /* GENERAL SECTION STYLE */
 a {
-  color: var(--color-black);
+  color: var(--color-white);
   transition: var(--transition);
 }
 
