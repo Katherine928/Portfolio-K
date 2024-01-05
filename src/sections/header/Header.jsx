@@ -11,7 +11,9 @@ const Header = () => {
         </div>
         <h3 data-aos="fade-up">Katherine Brooks</h3>
         <p data-aos="fade-up">
-          You're just a click away from discovering your dream worker!
+          <strong>
+            You're just a click away from discovering your dream worker!
+          </strong>
           <br />
           Experienced in both front-end and back-end development, my expertise
           is forged through dedicated learning and substantial work experience.

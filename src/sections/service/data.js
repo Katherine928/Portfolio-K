@@ -5,7 +5,7 @@ const data = [
     id: 1,
     icon: <RiReactjsLine />,
     title: "Frontend Development",
-    desc: "Fluent in React, I create user interfaces that align seamlessly with company standards, ensuring engaging experiences that captivate audiences.",
+    desc: "Fluent in React and vue, I create user interfaces that align seamlessly with company standards, ensuring engaging experiences that captivate audiences.",
   },
   {
     id: 2,
