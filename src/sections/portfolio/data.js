@@ -7,6 +7,7 @@ import Image6 from "../../assets/project6.png";
 import Image7 from "../../assets/project7.png";
 import Image8 from "../../assets/project8.png";
 import Image9 from "../../assets/project9.png";
+import Image10 from "../../assets/project10.png";
 
 const data = [
   {
@@ -89,6 +90,15 @@ const data = [
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "https://github.com/Katherine928/springboot-microservices",
     github: "https://github.com/Katherine928/springboot-microservices",
+  },
+  {
+    id: 10,
+    category: "frontend",
+    image: Image10,
+    title: "Project Title Nine (frontend)",
+    desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+    demo: "https://music-player-fawn-nine.vercel.app/",
+    github: "https://github.com/Katherine928/music-player",
   },
 ];
 
