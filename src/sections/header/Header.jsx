@@ -1,10 +1,12 @@
 import "./header.css";
 import data from "./data.js";
 import HeaderImage from "../../assets/header.png";
+import Confetti from "./Confetti.jsx";
 
 const Header = () => {
   return (
     <header id="header">
+      <Confetti />
       <div className="container header__container">
         <div className="header__profile" data-aos="fade-in">
           <img src={HeaderImage} alt="Header Portait" />
